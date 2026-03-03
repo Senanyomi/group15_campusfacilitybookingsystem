@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://facility-booking-9u2i.onrender.com/api',
+  baseURL: 'https://group15-campusfacilitybookingsystem-px.onrender.com/api',
   headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
 });
 
