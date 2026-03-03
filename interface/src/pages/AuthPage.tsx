@@ -45,8 +45,8 @@ const AuthPage: React.FC = () => {
         <div className="auth-container">
             <div className="auth-card glass">
                 <div className="auth-logo">
-                    <img src={logoSvg} className="auth-logo-svg" alt="Converge Logo" />
-                    <h1>Converge</h1>
+                    <img src={logoSvg} className="auth-logo-svg" alt="CampusBooking Logo" />
+                    <h1>CampusBooking</h1>
                     <p>Book facilities with ease</p>
                 </div>
 
