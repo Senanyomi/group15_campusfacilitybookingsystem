@@ -2,7 +2,7 @@
 
 ## 1. MVC Architecture
 
-The application is structured around the **Model-View-Controller (MVC)** pattern, with a Laravel (PHP) backend serving a decoupled React frontend.
+The application is structured around the **Model-View-Controller (MVC)** pattern, with a Laravel (PHP) backend serving a decoupled React frontends.
 
 ### How a Request Flows Through the System
 
