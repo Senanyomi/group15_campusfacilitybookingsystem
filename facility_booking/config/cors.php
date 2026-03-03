@@ -19,7 +19,8 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://group15-campusfacilitybookingsystem.vercel.app'],
+    'allowed_origins' => [
+        'https://group15-campusfacilitybookingsystem.vercel.app',
         'http://localhost:5173',
         'http://localhost:3000',
         'https://facility-booking-frontend.onrender.com'
