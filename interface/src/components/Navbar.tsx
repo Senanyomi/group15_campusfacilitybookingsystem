@@ -24,8 +24,8 @@ const Navbar: React.FC = () => {
     return (
         <nav className="navbar glass">
             <div className="navbar-brand">
-                <img src={logoSvg} className="nav-logo-svg" alt="Converge Logo" />
-                <span>Converge</span>
+                <img src={logoSvg} className="nav-logo-svg" alt="CampusBooking Logo" />
+                <span>CampusBooking</span>
             </div>
             <div className="navbar-links">
                 {isAdmin && (
